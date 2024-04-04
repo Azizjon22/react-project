@@ -1,0 +1,90 @@
+.footer__footer {
+  background: linear-gradient(180deg, rgba(10, 127, 46, 0.75) 3.33%, rgba(0, 0, 0, 0.75) 100%);
+  height: 597px;
+}
+.footer__footer__cards {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 100px;
+  padding-top: 137px;
+  padding: 100px 120px 105px px;
+}
+.footer__footer__cards__card {
+  width: 500px;
+  max-height: 300px;
+}
+
+.card1 {
+  width: 420px;
+  height: 214px;
+}
+.card1 h3 {
+  margin-bottom: 20px;
+  color: white;
+}
+.card1 p {
+  color: white;
+}
+
+.card2 {
+  width: 111px;
+  height: 193px;
+}
+.card2 h3 {
+  margin-bottom: 30px;
+  color: white;
+}
+.card2 p {
+  color: white;
+}
+
+.card3 {
+  width: 220px;
+  height: 299px;
+}
+.card3 p {
+  color: white;
+}
+.card3 h3 {
+  margin-bottom: 30px;
+  color: white;
+}
+
+.card4 {
+  width: 376px;
+  height: 219px;
+}
+.card4 h3 {
+  color: white;
+}
+.card4 p {
+  color: white;
+}
+.card4 h4 {
+  margin-top: 38px;
+  color: white;
+}
+
+.instaa {
+  display: flex;
+  align-items: center;
+}
+.instaa t a {
+  text-decoration: none;
+  color: white;
+}
+.instaa__instaa {
+  display: flex;
+  gap: 25px;
+}
+
+.instaa a {
+  text-decoration: none;
+  color: white;
+  padding-right: 20px;
+}
+
+.logoo {
+  margin-bottom: 60px;
+}/*# sourceMappingURL=footer.css.map */

@@ -1,13 +1,13 @@
 import React, { Component } from 'react'
-import Home from '../src/pages/Home';
 
-export default class App extends Component {
+export default class Car extends Component {
+
+
   render() {
     return (
       <>
-
-     <Home/>
-
+      
+        <h2>I am {this.props.brand} </h2>
       </>
     )
   }
